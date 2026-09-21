@@ -1,0 +1,6 @@
+bluetooth.start_accelerometer_service()
+bluetooth.start_button_service()
+bluetooth.start_io_pin_service()
+bluetooth.start_led_service()
+bluetooth.start_temperature_service()
+basic.show_string("MONITOR SERVICES")
